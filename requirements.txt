@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+python-dotenv
+pillow
+google-genai
+langchain
+langchain-google-genai
