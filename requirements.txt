@@ -1,5 +1,10 @@
 streamlit
 pandas
+numpy
+pillow
+easyocr
+open-python-headless
+matplotlib
 openpyxl
 python-dotenv
 pillow
