@@ -11,3 +11,4 @@ langchain
 langchain-google-genai
 matplotlib
 plotly
+openpyxl
